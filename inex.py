@@ -11,4 +11,8 @@ Tuto = Carte(10,"Base", 6)
 
 
 class Mage:
-    def__init__()
+    def__init__(pv)
+
+
+   cristal 
+   if mana = 0 print("THE END") 
