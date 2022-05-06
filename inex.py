@@ -16,3 +16,5 @@ class Mage:
 
    cristal 
    if mana = 0 print("THE END") 
+
+   blast 
